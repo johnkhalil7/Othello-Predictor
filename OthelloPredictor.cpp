@@ -1,4 +1,3 @@
-//
 /*
 Program Name: Othello Project
 Programmer Name: Johnathan Khalil
